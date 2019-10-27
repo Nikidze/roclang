@@ -1,0 +1,2 @@
+class f:
+    f = False

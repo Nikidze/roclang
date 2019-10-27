@@ -1,0 +1,2 @@
+STR z = INT(895).to_s();
+INT vasa = sqrt(INT(228)).value + INT(229).value;
